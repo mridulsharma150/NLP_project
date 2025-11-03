@@ -46,6 +46,7 @@ Thumbs.db
 # Data files
 data/
 faiss_index/
+archived_files/
 
 # Logs
 *.log
